@@ -1,5 +1,5 @@
 public class Termin8 {
   public static void main(String[] args) {
-   System.out.println("Hello world sa master grane");
+   System.out.println("Hello world iz terminala");
   }
 }
